@@ -1,10 +1,16 @@
 {
-  empathyenhanced:"1.1.2"
-  empathyenstatus:"True"
-  empathylegacy:"N/A"
-  empathylestatus:"False"
-  fortnite:"N/A"
-  fortnitestatus:"Development"
-  cs2:"1.0.5"
-  cs2status:"Development"
+  "empathyGTA": {
+    "enhanced_status": true,
+    "enhanced": "1.1.2",
+    "legacy": null,
+    "status": false
+  },
+  "fortnite": {
+    "version": null,
+    "status": "Development"
+  },
+  "cs2": {
+    "version": "1.0.5",
+    "status": "Development"
+  }
 }
